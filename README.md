@@ -7,5 +7,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nandinigera&show_icons=true&locale=en" alt="nandinigera" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandinigera&" alt="nandinigera" /></p>
