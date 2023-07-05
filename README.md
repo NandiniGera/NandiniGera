@@ -6,5 +6,5 @@
   <a href="https://www.linkedin.com/in/nandini-gera-0548b7229/">https://www.linkedin.com/in/nandini-gera-0548b7229/</a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nandinigera&show_icons=true&locale=en" alt="nandinigera" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandinigera&" alt="nandinigera" /></p>
+<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=nandinigera&show_icons=true&locale=en" alt="nandinigera" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandinigera&" alt="nandinigera" /></p>
