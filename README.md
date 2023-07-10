@@ -2,7 +2,7 @@
 <h3 align="center">In permanent beta: Learning, Improving, Evolving...💻</h3>
 
 <p align="center" style={{ textAlign: 'center' }}>
-     Connect with me-
+         📫 Connect with me-
   <a href="https://www.linkedin.com/in/nandini-gera-0548b7229/">https://www.linkedin.com/in/nandini-gera-0548b7229/</a> :)
 </p>   
 
